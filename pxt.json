@@ -1,0 +1,22 @@
+{
+    "name": "çan çin çon,,,",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "asasa": "github:musasire2021/asasa#master",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
